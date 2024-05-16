@@ -10,8 +10,7 @@ This repository contains a project on time series forecasting aimed at forecasti
 
 ## Repository Contents
 - **Data:** Bitcoin stock data in CSV format
-- **Notebooks:** Google Colab notebooks detailing the data preprocessing, model training, evaluation, visualisation and prediction (forecasting) processes
-- **Scripts:** Python scripts
+- **Notebooks:** Google Colab notebook detailing the data preprocessing, model training, evaluation, visualisation and prediction (forecasting) processes
 - **Results:** Visualizations and performance metrics of the trained models
 
 ## Getting Started
