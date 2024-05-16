@@ -4,7 +4,7 @@ This repository contains a project on time series forecasting aimed at predictin
 ## Key Features
 - **Data Source:** Historical Bitcoin stock data from CoinDesk
 - **Deep Learning Framework:** TensorFlow
-- **Models Type:** Machine Learning, pecifically Deep Learning
+- **Models Type:** Machine Learning, specifically Deep Learning
 - **Goal:** Prediction of future Bitcoin prices
 - **Environment:** Google Colab for development and execution
 
