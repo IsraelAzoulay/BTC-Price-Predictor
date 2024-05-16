@@ -2,7 +2,7 @@
 This repository contains a project on time series forecasting aimed at predicting the price of Bitcoin. The project leverages TensorFlow and deep learning techniques to analyze historical Bitcoin stock data and generate future price predictions. The project is implemented on Google Colab for efficient computation and easy accessibility.
 
 ## Key Features
-- **Data Source:** Historical Bitcoin stock data
+- **Data Source:** Historical Bitcoin stock data from CoinDesk
 - **Deep Learning Framework:** TensorFlow
 - **Models Type:** Machine Learning and specifically Deep Learning
 - **Goal:** Prediction of future Bitcoin prices
